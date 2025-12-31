@@ -9,6 +9,7 @@ const TimelineSection = () => {
       status: "upcoming",
       color: "primary"
     },
+    
     {
       date: "JAN 18, 2026",
       title: "Registration Closes",
@@ -92,3 +93,4 @@ const TimelineSection = () => {
 };
 
 export default TimelineSection;
+ 
