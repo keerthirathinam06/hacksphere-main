@@ -6,7 +6,7 @@ const TimelineSection = () => {
       date: "JAN 2, 2026",
       title: "Registration Opens",
       description: "Start your journey by registering your team",
-      status: "active",
+      status: "upcoming",
       color: "primary"
     },
     {
@@ -17,7 +17,7 @@ const TimelineSection = () => {
       color: "secondary"
     },
     {
-      date: "JAN 20, 2026",
+      date: "JAN 25, 2026",
       title: "Finalist Announcement",
       description: "Shortlisted teams will be announced",
       status: "upcoming",
