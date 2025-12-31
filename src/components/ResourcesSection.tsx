@@ -27,7 +27,7 @@ const ResourcesSection = () => {
       description: "Complete hackathon rules and participation guidelines",
       buttonText: "Download Rules PDF",
       type: "download",
-      downloadUrl: rulesPdf
+      downloadUrl: "/rules.pdf"
     }
   ];
 
