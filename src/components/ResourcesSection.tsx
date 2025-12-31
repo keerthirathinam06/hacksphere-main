@@ -67,7 +67,7 @@ const ResourcesSection = () => {
                 {resource.description}
               </p>
               
-              <a href={resource.downloadUrl} download target="_blank" rel="noopener noreferrer">
+              <a href={resource.downloadUrl} download>
                 <Button variant="neon" className="w-full hover:scale-105 transition-transform duration-300">
                   <Download className="w-4 h-4 mr-2" />
                   {resource.buttonText}
